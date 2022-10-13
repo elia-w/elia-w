@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Heyy, I'm <a href="https://fr.linkedin.com/in/elia-wu-36b92a236" target="blank">
+Elia </a> ! </h1>
 
-<!--
-**elia-w/elia-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Welcome to my bio ! ✨
 
-Here are some ideas to get you started:
+💻 Je suis étudiante à l'ESIEE-IT en BTS SIO option SLAM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Possédant un BAC Général spécialités Mathématiques et NSI
+
+📝 Je suis interessée par le développement informatique et les jeux vidéos
+
+🌟 Main languages : Python, HTLM, CSS, SQL
+
+🌱 Langages en cours : Java, C++
+
+👨‍🍳 J'ai travaillé pendant un an dans un restaurant afin d'acquérir différentes nouvelles compétences
+
+🤔 Je recherche actuellement une entreprise pour une alternance en informatique
+
+
