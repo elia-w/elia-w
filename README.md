@@ -9,12 +9,8 @@ Elia </a> ! </h1>
 
 📝 Je suis interessée par le développement informatique et les jeux vidéos
 
-🌟 Main languages : Python, HTLM, CSS, SQL
+🌟 Main languages : Python, HTLM, CSS, SQL, PHP
 
 🌱 Langages en cours : Java, C++
-
-👨‍🍳 J'ai travaillé pendant un an dans un restaurant afin d'acquérir différentes nouvelles compétences
-
-🤔 Je recherche actuellement une entreprise pour une alternance en informatique
 
 
