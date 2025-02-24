@@ -3,14 +3,14 @@ Elia </a> ! </h1>
 
 ## ✨ Welcome to my bio ! ✨
 
-💻 Je suis étudiante à l'ESIEE-IT en BTS SIO option SLAM
+💻 Je suis étudiante à l'ESIEE-IT en Bachelor Informatique Générale
 
-📚 Possédant un BAC Général spécialités Mathématiques et NSI
+📚 Possédant un BAC Général spécialités Mathématiques et NSI et un BTS SIO SLAM
 
 📝 Je suis interessée par le développement informatique et les jeux vidéos
 
-🌟 Main languages : Python, HTLM, CSS, SQL, PHP
+🌟 Main languages : Python, HTLM, CSS, SQL, PHP, Java
 
-🌱 Langages en cours : Java, C++
+🌱 Frameworks : Angular
 
 
